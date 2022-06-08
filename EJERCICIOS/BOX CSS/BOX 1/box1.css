@@ -1,0 +1,34 @@
+body{
+    width: 100%;
+    height: 100%;
+}
+
+
+#azul{
+    background-color: #003049;
+    height: 1000px;
+}
+
+#rojo{
+    background-color: #d62828;
+    height: 150px;
+    border: 10px solid #d62828; 
+
+}
+
+
+#naranja{
+    background-color: #f77f00;
+    height: 150px;
+}
+
+
+#amarillo{
+    background-color: #fcbf49;
+    height: 150px;
+}
+
+#claro{
+    background-color: #eae2b7;
+    height: 150px;
+}

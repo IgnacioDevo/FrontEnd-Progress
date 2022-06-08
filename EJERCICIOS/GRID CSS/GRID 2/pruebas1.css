@@ -1,0 +1,27 @@
+body{
+    background-color: gray;
+}
+
+
+.container{
+    display: grid;
+    width: 100%;
+    height: 700px;
+    grid-template: 700px / 300px;
+ }
+
+
+ #barra{
+     border: solid 1px black;
+     grid-template: 700px / 300px;
+ }
+
+
+ .img{
+     width: 15px;
+     height: 15px;
+ }
+
+.icon .img .p {
+    display: flex;
+}

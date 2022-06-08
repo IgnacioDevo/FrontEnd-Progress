@@ -1,0 +1,16 @@
+.class{
+    background-color: pink;
+    font-size: 25px;
+    font-family: sans-serif Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#div1{
+    color: blue;
+    font-size: 24px;
+}
+
+#div2{
+    background-color: rgb(129, 194, 31);
+    font-weight: bold;
+    font-size: 24px;
+}

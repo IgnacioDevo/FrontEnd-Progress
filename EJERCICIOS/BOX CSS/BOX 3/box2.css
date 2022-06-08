@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#general{
+    width: 950px;
+    height: 870px;
+    background-color: red;
+    margin: auto;
+    margin-top: 50px;
+
+}
+
+
+#ofertas{
+    width: 300px;
+    height: 870px;
+    background-color: green;
+    float: left;
+
+}
+
+#ll3{ 
+    width: 640px;
+    height: 350px;
+    background-color: black;
+    float: right;
+}
+
+#lll{
+    width: 640px;
+    height: 250px;
+    background-color: blue;
+    float: right; 
+}
+
+#ppp{
+    width: 640px;
+    height: 250px;
+    background-color: yellow;
+    float: right;  
+}

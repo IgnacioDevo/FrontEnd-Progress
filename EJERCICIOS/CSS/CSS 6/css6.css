@@ -1,0 +1,34 @@
+.part1{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#parrafo1{
+    font-size: 36px;
+}
+
+#parrafo2{
+    font-size: 20px;
+}
+
+.button{
+    font-weight: bold;
+    border: 2px solid gray;
+    font-size: 30px;
+}
+
+#verde{
+    background-color: rgb(8, 160, 8);
+    color: white;
+    
+}
+
+.part3{
+    color: green;
+    font-size: 25px;
+}
+
+#divred{
+    color: red;
+    font-size: 20px;
+}
